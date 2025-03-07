@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+  color: rgb(255, 0, 0);
+}
+
+.titulo {
+  margin: auto;
+  width: 10%;
+  padding: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.imagem {
+  animation: rotation 2s infinite linear;
+}
